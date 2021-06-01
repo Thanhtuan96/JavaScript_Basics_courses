@@ -18,3 +18,4 @@ console.log(funnySentence)
 //expected 'ha'
 
 //replace('want to replace','replace things')
+
