@@ -41,3 +41,5 @@ if(password.length >= 6 && password.indexOf(' ')=== -1){
 }
 
 // || AND if one side is true the entire thing is true khuat hoang thanh tuan khuat hoang khuat hoang thak
+
+asdf
